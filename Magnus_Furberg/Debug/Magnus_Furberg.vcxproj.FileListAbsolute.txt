@@ -1,0 +1,4 @@
+C:\Visual Studio Repositories\Mock Exam due 20. Oct\Magnus_Furberg\Debug\Magnus_Furberg.exe
+C:\Visual Studio Repositories\Mock Exam due 20. Oct\Magnus_Furberg\Debug\Magnus_Furberg.pdb
+C:\Documents\Hinn\Programming library\Visual Studio Repositories\Mock Exam due 20. Oct\Magnus_Furberg\Debug\Magnus_Furberg.exe
+C:\Documents\Hinn\Programming library\Visual Studio Repositories\Mock Exam due 20. Oct\Magnus_Furberg\Debug\Magnus_Furberg.pdb

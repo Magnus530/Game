@@ -1,0 +1,6 @@
+﻿  Magnus_Furberg.cpp
+C:\Documents\Hinn\Programming library\Visual Studio Repositories\Mock Exam due 20. Oct\Magnus_Furberg\Magnus_Furberg.cpp(162,31): warning C4018: '<': signed/unsigned mismatch
+C:\Documents\Hinn\Programming library\Visual Studio Repositories\Mock Exam due 20. Oct\Magnus_Furberg\Magnus_Furberg.cpp(169,31): warning C4018: '<': signed/unsigned mismatch
+C:\Documents\Hinn\Programming library\Visual Studio Repositories\Mock Exam due 20. Oct\Magnus_Furberg\Magnus_Furberg.cpp(241,27): warning C4018: '<': signed/unsigned mismatch
+C:\Documents\Hinn\Programming library\Visual Studio Repositories\Mock Exam due 20. Oct\Magnus_Furberg\Magnus_Furberg.cpp(255,27): warning C4018: '<': signed/unsigned mismatch
+  Magnus_Furberg.vcxproj -> C:\Documents\Hinn\Programming library\Visual Studio Repositories\Mock Exam due 20. Oct\Magnus_Furberg\Debug\Magnus_Furberg.exe
