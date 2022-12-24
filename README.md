@@ -1,4 +1,4 @@
-# Small-Game
+# Game
 
 A game created in C++ as part of a mock exam. It includes a login screen and a movable character in a 2D environment.
 
